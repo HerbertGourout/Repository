@@ -22,7 +22,6 @@
 |  1 mois |Interface web qui analyse en temps réel les images d'une webcam et affiche le nom des objets aux endroits ou ils se trouvent. | 19 Février 2020| |
 |  1 mois |Interface web qui analyse en temps réel les images d'une webcam et affiche le nom des objets aux endroits ou ils se trouvent. | 19 Février 2020| |
 
-
 | Jalon| Moment| Etat|
 | ------ | ------ | ------ |
 | Traiter une image | S1|
