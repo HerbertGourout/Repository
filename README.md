@@ -39,3 +39,22 @@
 * Developpement vers le Cloud 
 * Analyse des coût 
 * Accès aux logs de l'application déployée
+
+
+Equipe : 
+
+- **Younes Hamra **(50%) : dev + assistance technique
+- Youness Drissi : Web + dev + assistance technique
+- Herbert N'Dzondzi : CNN + dev
+
+# Sobloo : détection piscines
+
+Pour l'instant, deux parties indépendantes du projet on été menées.
+
+# Recherche CVs
+
+Annulé
+
+# Data warehouse
+
+Annulé
