@@ -15,6 +15,18 @@
 *** 
 ## Organisation
 * Projet et Equipes 
+# Détection d'objet
+
+| Durée prévue| But| Début effectif| Fin effective|
+| ------ | ------ | ------ |------ |
+|  1 mois |Interface web qui analyse en temps réel les images d'une webcam et affiche le nom des objets aux endroits ou ils se trouvent. | 19 Février 2020| |
+
+| Jalon| Moment| Etat|
+| ------ | ------ | ------ |
+| Traiter une image | S1|
+| Détecter une vidéo depuis webcam locale + Traiter une vidéo depuis webcam par internet | S3|
+| Finalisation| S4
+
 * Convention de code
 *** 
 ## Projets 
