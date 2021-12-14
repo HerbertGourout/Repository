@@ -2,8 +2,7 @@
 ***
 ## Dévéloppeur 
 * Installation locale
-* 
-![image](https://user-images.githubusercontent.com/33103596/146023657-865aaaf2-a867-4ae6-84cc-1fa9b32bcdca.png)
+![Annaconda](https://user-images.githubusercontent.com/33103596/146023657-865aaaf2-a867-4ae6-84cc-1fa9b32bcdca.png)
 
 * Créer un projet dans datalab main
 * Redéploiment
