@@ -1,4 +1,8 @@
-def pyth(): 
-    return print('i love it')
-a = pyth()
-a
+def toyou(x):
+    return f"hi {x}"
+
+def add(x):
+    return x + 1
+
+def subtract(x):
+    return x - 1
