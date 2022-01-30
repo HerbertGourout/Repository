@@ -1,3 +1,4 @@
 def pyth(): 
     return print('i love it')
-pyth()
+a = pyth()
+a
